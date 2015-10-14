@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: pink;
+ }
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.box {
+    padding: 20px;
+    border: 1px solid #999;
+    margin: 30px;
+    width: 33%;
+    text-align: center;
+    box-sizing: border-box;
+}
